@@ -1,0 +1,5 @@
+langchain
+openai
+chainlit
+transformers
+python-dotenv
